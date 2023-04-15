@@ -2,6 +2,6 @@ public class ABC
 {
 	public static void main(String args[])
 	{
-		System.out.println("Hello from Class A");
+		System.out.println("Hello from Class B");
 	}
 }
